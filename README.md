@@ -16,15 +16,13 @@ Linear regression models were assessed based on various perspectives. The first 
 OSEMN Approach
 
 The model is constructed according to OSEMN approach: 
-
 1 - Obtaining the data 2 - Scrubbing the data 3 - Exploring the data 4 - Modeling the data 5 - Interpreting the results
 
 
 The Dataset
 
-For this project, the King County House Sales dataset is used. The dataset can be found in the file "kc_house_data.csv", in this repo.
+For this project, the King County House Sales dataset is used. The dataset can be found in the file "kc_house_data.csv", in this repo. The description of the column names can be found in the column_names.md file in this repository.
 
-The description of the column names can be found in the column_names.md file in this repository.
 
 Modelling Process
 
