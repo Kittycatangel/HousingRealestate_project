@@ -36,4 +36,4 @@ In general  real estate investors should aim to look for square footage of the h
 
 Conclusion
 
-The most important features to predict the price sale of houses in King County, Seattle are square foot of the house, house grade and location.
+The most important features to predict the price sale of houses in King County, Seattle are square foot of the house and house grade and location.
