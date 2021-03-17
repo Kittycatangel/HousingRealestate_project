@@ -30,10 +30,10 @@ Normality, linearity and multicollinearity are checked. Visualisations are made.
 
 Results and data interpretation
 
-Many models were produced in this project to predict the sale price of the houses in King County following different objectives. Most of these models have a high fit score and R-squared of 0.92. The most two important features to predict the sale price are square foot of the houses sold and house grade. Other influential feature that can help to increase the sale price of houses is the location.
+Four models were produced in this project to predict the sale price of the houses in King County following different objectives.  The most two important features to predict the sale price are square foot of the houses sold and house grade. Other influential feature that can help to increase the sale price of houses is the location.
 
 In general  real estate investors should aim to look for square footage of the house, house grade (mostly high, 12 or 13), location, a house that has a view and a waterfront.
 
 Conclusion
 
-The most important features to predict the price sale of houses in King County, Seattle are square foot of the house and house grade and location.
+The most important features to predict the price sale of houses in King County, Seattle are square foot of the house, house grade and location.
