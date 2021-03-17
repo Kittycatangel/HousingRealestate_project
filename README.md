@@ -21,7 +21,7 @@ The model is constructed according to OSEMN approach:
 
 The Dataset
 
-For this project, the King County House Sales dataset is used. The dataset can be found in the file "kc_house_data.csv", in this repo. The description of the column names can be found in the column_names.md file in this repository. Moreover, a  pdf file  of the presentation of the major can be found in this repository as "HousPricePredictionProject_presentation.pdf.
+For this project, the King County House Sales dataset is used. The dataset can be found in the file "kc_house_data.csv", in this repo. The description of the column names can be found in the column_names.md file in this repository. Moreover, a  pdf file  of the presentation of the major results can be found in this repository as "HousPricePredictionProject_presentation.pdf. Moreover,  a jupyter notebook of the python code and the pdf version of can be found as "HousePrediction_ModellingProject -Jupyter Notebook.pdf and HousePrediction_ModellingProject.ipynb.
 
 Modelling Process
 
